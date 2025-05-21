@@ -30,27 +30,51 @@
 
 ### 💻 Tech Stack
 
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap: 20px; flex-wrap: wrap;">
   <!-- Frontend & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,reactnative,js,tailwind,html,css" />
-  <br/>
+  <span style="display:flex; gap: 10px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    <img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </span>
 
   <!-- Backend & Cloud -->
-  <img src="https://skillicons.dev/icons?i=firebase,nodejs,mongodb,mysql,vercel,aws,cloudflare" />
-  <br/>
+  <span style="display:flex; gap: 10px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" />
+  </span>
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=py,java,cpp" />
-  <br/>
+  <span style="display:flex; gap: 10px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  </span>
 
   <!-- ML & Data -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,matplotlib" />
-  <br/>
+  <span style="display:flex; gap: 10px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+    <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
+    <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
+    <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" />
+  </span>
 
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,figma,anaconda,canva,arduino" />
+  <span style="display:flex; gap: 10px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+    <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
+    <img src="https://skillicons.dev/icons?i=canva" alt="Canva" />
+    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+  </span>
 </p>
-
----
-
-
