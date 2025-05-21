@@ -76,11 +76,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ash3YR&show_icons=true&theme=tokyonight" alt="Yash's GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=just+a+guy+who+likes+to+tinker...;building+cool+stuff+with+code;always+learning+something+new" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ash3YR&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 
