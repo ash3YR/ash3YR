@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Yash</h1>
-<h3 align="center">Just a guy who likes to tinker around...</h3>
+<h3 align="center"></h3>
 
 ---
 
 ### 💫 About Me
 
-- 🔭 Currently exploring **React Native**, **DSA**, and **IoT Projects** - 🛠️ I love experimenting with new tech and building things from scratch  
+- 🔭 Currently exploring **React Native**, **CNNs**, and **IoT Projects** - 
 - 🌱 Also working on solving ML papers 
 - 📬 Reach me at: [yash030m@gmail.com](mailto:yash030m@gmail.com)
 
