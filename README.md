@@ -5,7 +5,7 @@
 
 ### 💫 About Me
 
-- 🔭 Currently exploring **React Native**, **CNNs**, and **IoT Projects** - 
+- 🔭 Currently exploring **Machine Code**- 
 - 🌱 Also working on solving ML papers 
 - 📬 Reach me at: [yash030m@gmail.com](mailto:yash030m@gmail.com)
 
