@@ -5,4 +5,4 @@ I'm [**Yash**](yashdevv.netlify.app), a software dev.
 I am currently a pre-final year undergrad.
 
 #### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](linkedin.com/in/yash-rathore-909768332/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/yash-rathore-909768332/)
